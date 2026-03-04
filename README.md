@@ -1,5 +1,5 @@
 # Microservicio ms-users
-
+![](https://github.com/julianguerra1231186-crypto/ms-users/blob/main/ms-users/27.jpg).png)
 ## Descripción
 El microservicio **ms-users** es responsable de la gestión de usuarios dentro del sistema **PulpApp - Sistema Distribuido de Venta Online de Pulpas Naturales**.
 Este servicio permite realizar operaciones CRUD sobre los usuarios, incluyendo registro, consulta, actualización y eliminación.
