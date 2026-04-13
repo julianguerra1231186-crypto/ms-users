@@ -1,3 +1,9 @@
+<!--
+CONFIG
+FULL_NAME:Julian Andres Guerra Garcia
+GITHUB_USER: julianguerra1231186@gmail.com
+CODE_ORGANIZATION: code-corhuila
+-->
 
 ![](https://github.com/julianguerra1231186-crypto/ms-users/blob/main/ms-users/miroservicio1.png)
 # ms-users — Microservicio de Usuarios, Autenticación y Reclutamiento
